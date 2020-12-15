@@ -209,7 +209,7 @@ footer {
     }
     .saraCase {
         display: grid;
-        width: 100%;
+        /*width: 100%;*/
         grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr;
         grid-template-areas:
